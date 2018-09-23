@@ -1,5 +1,5 @@
 # ColorMemLCD
- Only tested on the Adafruit nrf52832 core 0.8.5 for Arduino, which is able to run on this watch.
+Arduino library for the LPM013M126A 176x176 Japan Display 8-Color memory LCD, found inside the SMA-Q2 / SMA-TIME smartwatch.  Only tested on the Adafruit nrf52832 core 0.8.5 for Arduino, which is able to run on this watch.
 
 The ColorMemLCD library is based on the mbed library for the JDI 3bit-color memory LCD LPM013M126A
 by Tadayuki Okamoto, originally released under the MIT License as well as the Adafruit library for the SHARP memory LCDs. It relies on the Adafruit GFX library for graphics functions.
